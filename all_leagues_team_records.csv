@@ -1,0 +1,529 @@
+league_code,league_name,season,team_name,wins,draws,losses,played,points,goals_for,goals_against,team_id
+BL1,Bundesliga,2023,Bayer 04 Leverkusen,28,6,0,34,90,89,24,3
+BL1,Bundesliga,2023,VfB Stuttgart,23,4,7,34,73,78,39,10
+BL1,Bundesliga,2023,FC Bayern München,23,3,8,34,72,94,45,5
+BL1,Bundesliga,2023,RB Leipzig,19,8,7,34,65,77,39,721
+BL1,Bundesliga,2023,Borussia Dortmund,18,9,7,34,63,68,43,4
+BL1,Bundesliga,2023,Eintracht Frankfurt,11,14,9,34,47,51,50,19
+BL1,Bundesliga,2023,TSG 1899 Hoffenheim,13,7,14,34,46,66,66,2
+BL1,Bundesliga,2023,1. FC Heidenheim 1846,10,12,12,34,42,50,55,44
+BL1,Bundesliga,2023,SV Werder Bremen,11,9,14,34,42,48,54,12
+BL1,Bundesliga,2023,SC Freiburg,11,9,14,34,42,45,58,17
+BL1,Bundesliga,2023,FC Augsburg,10,9,15,34,39,50,60,16
+BL1,Bundesliga,2023,VfL Wolfsburg,10,7,17,34,37,41,56,11
+BL1,Bundesliga,2023,1. FSV Mainz 05,7,14,13,34,35,39,51,15
+BL1,Bundesliga,2023,Borussia Mönchengladbach,7,13,14,34,34,56,67,18
+BL1,Bundesliga,2023,1. FC Union Berlin,9,6,19,34,33,33,58,28
+BL1,Bundesliga,2023,VfL Bochum 1848,7,12,15,34,33,42,74,36
+BL1,Bundesliga,2023,1. FC Köln,5,12,17,34,27,28,60,1
+BL1,Bundesliga,2023,SV Darmstadt 98,3,8,23,34,17,30,86,55
+BL1,Bundesliga,2024,FC Bayern München,25,7,2,34,82,99,32,5
+BL1,Bundesliga,2024,Bayer 04 Leverkusen,19,12,3,34,69,72,43,3
+BL1,Bundesliga,2024,Eintracht Frankfurt,17,9,8,34,60,68,46,19
+BL1,Bundesliga,2024,Borussia Dortmund,17,6,11,34,57,71,51,4
+BL1,Bundesliga,2024,SC Freiburg,16,7,11,34,55,49,53,17
+BL1,Bundesliga,2024,1. FSV Mainz 05,14,10,10,34,52,55,43,15
+BL1,Bundesliga,2024,RB Leipzig,13,12,9,34,51,53,48,721
+BL1,Bundesliga,2024,SV Werder Bremen,14,9,11,34,51,54,57,12
+BL1,Bundesliga,2024,VfB Stuttgart,14,8,12,34,50,64,53,10
+BL1,Bundesliga,2024,Borussia Mönchengladbach,13,6,15,34,45,55,57,18
+BL1,Bundesliga,2024,VfL Wolfsburg,11,10,13,34,43,56,54,11
+BL1,Bundesliga,2024,FC Augsburg,11,10,13,34,43,35,51,16
+BL1,Bundesliga,2024,1. FC Union Berlin,10,10,13,33,40,35,49,28
+BL1,Bundesliga,2024,FC St. Pauli 1910,8,8,18,34,32,28,41,20
+BL1,Bundesliga,2024,TSG 1899 Hoffenheim,7,11,16,34,32,46,68,2
+BL1,Bundesliga,2024,1. FC Heidenheim 1846,8,5,21,34,29,37,64,44
+BL1,Bundesliga,2024,Holstein Kiel,6,7,21,34,25,49,80,720
+BL1,Bundesliga,2024,VfL Bochum 1848,5,7,21,33,22,31,67,36
+BL1,Bundesliga,2025,FC Bayern München,9,1,0,10,28,35,6,5
+BL1,Bundesliga,2025,RB Leipzig,7,1,2,10,22,20,13,721
+BL1,Bundesliga,2025,Borussia Dortmund,6,3,1,10,21,16,7,4
+BL1,Bundesliga,2025,VfB Stuttgart,7,0,3,10,21,17,12,10
+BL1,Bundesliga,2025,Bayer 04 Leverkusen,6,2,2,10,20,24,14,3
+BL1,Bundesliga,2025,TSG 1899 Hoffenheim,6,1,3,10,19,21,16,2
+BL1,Bundesliga,2025,Eintracht Frankfurt,5,2,3,10,17,23,19,19
+BL1,Bundesliga,2025,SV Werder Bremen,4,3,3,10,15,15,18,12
+BL1,Bundesliga,2025,1. FC Köln,4,2,4,10,14,17,15,1
+BL1,Bundesliga,2025,SC Freiburg,3,4,3,10,13,13,14,17
+BL1,Bundesliga,2025,1. FC Union Berlin,3,3,4,10,12,13,17,28
+BL1,Bundesliga,2025,Borussia Mönchengladbach,2,3,5,10,9,13,19,18
+BL1,Bundesliga,2025,Hamburger SV,2,3,5,10,9,9,16,7
+BL1,Bundesliga,2025,VfL Wolfsburg,2,2,6,10,8,12,18,11
+BL1,Bundesliga,2025,FC Augsburg,2,1,7,10,7,14,24,16
+BL1,Bundesliga,2025,FC St. Pauli 1910,2,1,7,10,7,9,20,20
+BL1,Bundesliga,2025,1. FSV Mainz 05,1,2,7,10,5,10,18,15
+BL1,Bundesliga,2025,1. FC Heidenheim 1846,1,2,7,10,5,8,23,44
+BSA,Campeonato Brasileiro Série A,2023,SE Palmeiras,20,10,8,38,70,64,33,1769
+BSA,Campeonato Brasileiro Série A,2023,Grêmio FBPA,21,5,12,38,68,63,56,1767
+BSA,Campeonato Brasileiro Série A,2023,CA Mineiro,19,9,10,38,66,52,32,1766
+BSA,Campeonato Brasileiro Série A,2023,CR Flamengo,19,9,10,38,66,56,42,1783
+BSA,Campeonato Brasileiro Série A,2023,Botafogo FR,18,10,10,38,64,58,37,1770
+BSA,Campeonato Brasileiro Série A,2023,RB Bragantino,17,11,10,38,62,49,35,4286
+BSA,Campeonato Brasileiro Série A,2023,CA Paranaense,14,14,10,38,56,51,43,1768
+BSA,Campeonato Brasileiro Série A,2023,Fluminense FC,16,8,14,38,56,51,47,1765
+BSA,Campeonato Brasileiro Série A,2023,SC Internacional,15,10,13,38,55,46,45,6684
+BSA,Campeonato Brasileiro Série A,2023,Fortaleza EC,15,9,14,38,54,45,44,3984
+BSA,Campeonato Brasileiro Série A,2023,São Paulo FC,14,11,13,38,53,40,38,1776
+BSA,Campeonato Brasileiro Série A,2023,Cuiabá EC,14,9,15,38,51,40,39,4289
+BSA,Campeonato Brasileiro Série A,2023,SC Corinthians Paulista,12,14,12,38,50,47,48,1779
+BSA,Campeonato Brasileiro Série A,2023,Cruzeiro EC,11,14,13,38,47,35,32,1771
+BSA,Campeonato Brasileiro Série A,2023,CR Vasco da Gama,12,9,17,38,45,41,51,1780
+BSA,Campeonato Brasileiro Série A,2023,EC Bahia,12,8,18,38,44,50,53,1777
+BSA,Campeonato Brasileiro Série A,2023,Santos FC,11,10,17,38,43,39,64,6685
+BSA,Campeonato Brasileiro Série A,2023,Goiás EC,9,11,18,38,38,36,53,4250
+BSA,Campeonato Brasileiro Série A,2023,Coritiba FBC,8,6,24,38,30,41,73,4241
+BSA,Campeonato Brasileiro Série A,2023,América FC,5,9,24,38,24,42,81,1838
+BSA,Campeonato Brasileiro Série A,2024,Botafogo FR,23,10,5,38,79,59,29,1770
+BSA,Campeonato Brasileiro Série A,2024,SE Palmeiras,22,7,9,38,73,60,33,1769
+BSA,Campeonato Brasileiro Série A,2024,CR Flamengo,20,10,8,38,70,61,42,1783
+BSA,Campeonato Brasileiro Série A,2024,Fortaleza EC,19,11,8,38,68,53,39,3984
+BSA,Campeonato Brasileiro Série A,2024,SC Internacional,18,11,9,38,65,53,36,6684
+BSA,Campeonato Brasileiro Série A,2024,São Paulo FC,17,8,13,38,59,53,43,1776
+BSA,Campeonato Brasileiro Série A,2024,SC Corinthians Paulista,15,11,12,38,56,54,45,1779
+BSA,Campeonato Brasileiro Série A,2024,EC Bahia,15,8,15,38,53,49,49,1777
+BSA,Campeonato Brasileiro Série A,2024,Cruzeiro EC,14,10,14,38,52,43,41,1771
+BSA,Campeonato Brasileiro Série A,2024,CR Vasco da Gama,14,8,16,38,50,43,56,1780
+BSA,Campeonato Brasileiro Série A,2024,CA Mineiro,11,14,13,38,47,47,54,1766
+BSA,Campeonato Brasileiro Série A,2024,EC Vitória,13,8,17,38,47,45,52,1782
+BSA,Campeonato Brasileiro Série A,2024,Fluminense FC,12,10,16,38,46,33,39,1765
+BSA,Campeonato Brasileiro Série A,2024,Grêmio FBPA,12,9,17,38,45,44,50,1767
+BSA,Campeonato Brasileiro Série A,2024,EC Juventude,11,12,15,38,45,48,59,4245
+BSA,Campeonato Brasileiro Série A,2024,RB Bragantino,10,14,14,38,44,44,48,4286
+BSA,Campeonato Brasileiro Série A,2024,CA Paranaense,11,9,18,38,42,40,46,1768
+BSA,Campeonato Brasileiro Série A,2024,Criciúma EC,9,11,18,38,38,42,61,4243
+BSA,Campeonato Brasileiro Série A,2024,Cuiabá EC,6,12,20,38,30,29,49,4289
+BSA,Campeonato Brasileiro Série A,2024,AC Goianiense,7,9,22,38,30,29,58,3988
+BSA,Campeonato Brasileiro Série A,2025,CR Flamengo,20,8,4,32,68,64,20,1783
+BSA,Campeonato Brasileiro Série A,2025,SE Palmeiras,21,5,6,32,68,58,28,1769
+BSA,Campeonato Brasileiro Série A,2025,Cruzeiro EC,18,10,5,33,64,46,22,1771
+BSA,Campeonato Brasileiro Série A,2025,Mirassol FC,16,11,6,33,59,54,33,4364
+BSA,Campeonato Brasileiro Série A,2025,EC Bahia,15,8,10,33,53,44,40,1777
+BSA,Campeonato Brasileiro Série A,2025,Botafogo FR,14,10,9,33,52,44,28,1770
+BSA,Campeonato Brasileiro Série A,2025,Fluminense FC,15,6,12,33,51,38,37,1765
+BSA,Campeonato Brasileiro Série A,2025,São Paulo FC,12,9,12,33,45,37,36,1776
+BSA,Campeonato Brasileiro Série A,2025,CA Mineiro,11,11,11,33,44,37,37,1766
+BSA,Campeonato Brasileiro Série A,2025,CR Vasco da Gama,12,6,15,33,42,50,49,1780
+BSA,Campeonato Brasileiro Série A,2025,Ceará SC,11,9,13,33,42,31,30,1837
+BSA,Campeonato Brasileiro Série A,2025,SC Corinthians Paulista,11,9,13,33,42,35,38,1779
+BSA,Campeonato Brasileiro Série A,2025,RB Bragantino,12,6,15,33,42,38,50,4286
+BSA,Campeonato Brasileiro Série A,2025,Grêmio FBPA,10,10,13,33,40,35,43,1767
+BSA,Campeonato Brasileiro Série A,2025,SC Internacional,9,10,14,33,37,37,46,6684
+BSA,Campeonato Brasileiro Série A,2025,EC Vitória,8,11,14,33,35,29,47,1782
+BSA,Campeonato Brasileiro Série A,2025,Santos FC,8,9,15,32,33,33,48,6685
+BSA,Campeonato Brasileiro Série A,2025,EC Juventude,9,5,19,33,32,29,59,4245
+BSA,Campeonato Brasileiro Série A,2025,Fortaleza EC,7,10,16,33,31,34,51,3984
+BSA,Campeonato Brasileiro Série A,2025,SC Recife,2,11,19,32,17,24,55,1778
+DED,Eredivisie,2023,PSV,29,4,1,34,91,111,21,674
+DED,Eredivisie,2023,Feyenoord Rotterdam,26,6,2,34,84,92,26,675
+DED,Eredivisie,2023,FC Twente '65,21,6,7,34,69,69,36,666
+DED,Eredivisie,2023,AZ,19,8,7,34,65,70,39,682
+DED,Eredivisie,2023,AFC Ajax,15,11,8,34,56,74,61,678
+DED,Eredivisie,2023,NEC,14,11,9,34,53,68,50,1915
+DED,Eredivisie,2023,FC Utrecht,13,11,10,34,50,49,47,676
+DED,Eredivisie,2023,Sparta Rotterdam,14,7,13,34,49,51,48,6806
+DED,Eredivisie,2023,Go Ahead Eagles,12,10,12,34,46,47,46,718
+DED,Eredivisie,2023,Fortuna Sittard,9,11,14,34,38,37,56,1920
+DED,Eredivisie,2023,SC Heerenveen,10,7,17,34,37,53,70,673
+DED,Eredivisie,2023,PEC Zwolle,9,9,16,34,36,45,67,684
+DED,Eredivisie,2023,Almere City FC,7,13,14,34,34,33,59,1911
+DED,Eredivisie,2023,Heracles Almelo,9,6,19,34,33,41,74,671
+DED,Eredivisie,2023,RKC Waalwijk,7,8,19,34,29,38,56,683
+DED,Eredivisie,2023,SBV Excelsior,6,11,17,34,29,50,73,670
+DED,Eredivisie,2023,SBV Vitesse,6,6,22,34,24,29,74,679
+DED,Eredivisie,2023,FC Volendam,4,7,23,34,19,34,88,1919
+DED,Eredivisie,2024,PSV,25,4,5,34,79,103,39,674
+DED,Eredivisie,2024,AFC Ajax,24,6,4,34,78,67,32,678
+DED,Eredivisie,2024,Feyenoord Rotterdam,20,8,6,34,68,76,38,675
+DED,Eredivisie,2024,FC Utrecht,18,10,6,34,64,62,45,676
+DED,Eredivisie,2024,AZ,16,9,9,34,57,58,37,682
+DED,Eredivisie,2024,FC Twente '65,15,9,10,34,54,62,49,666
+DED,Eredivisie,2024,Go Ahead Eagles,14,9,11,34,51,57,55,718
+DED,Eredivisie,2024,NEC,12,7,15,34,43,51,46,1915
+DED,Eredivisie,2024,SC Heerenveen,12,7,15,34,43,42,57,673
+DED,Eredivisie,2024,PEC Zwolle,10,11,13,34,41,43,51,684
+DED,Eredivisie,2024,Fortuna Sittard,11,8,15,34,41,37,54,1920
+DED,Eredivisie,2024,Sparta Rotterdam,9,12,13,34,39,39,43,6806
+DED,Eredivisie,2024,FC Groningen,10,9,15,34,39,40,53,677
+DED,Eredivisie,2024,Heracles Almelo,9,11,14,34,38,42,63,671
+DED,Eredivisie,2024,NAC Breda,8,9,17,34,33,34,58,681
+DED,Eredivisie,2024,Willem II Tilburg,6,8,20,34,26,34,56,672
+DED,Eredivisie,2024,RKC Waalwijk,6,7,21,34,25,44,74,683
+DED,Eredivisie,2024,Almere City FC,4,10,20,34,22,23,64,1911
+DED,Eredivisie,2025,PSV,10,1,1,12,31,40,17,674
+DED,Eredivisie,2025,Feyenoord Rotterdam,9,1,2,12,28,31,12,675
+DED,Eredivisie,2025,AZ,7,3,2,12,24,25,18,682
+DED,Eredivisie,2025,AFC Ajax,5,5,2,12,20,22,17,678
+DED,Eredivisie,2025,FC Utrecht,6,1,5,12,19,22,16,676
+DED,Eredivisie,2025,FC Groningen,6,1,5,12,19,17,17,677
+DED,Eredivisie,2025,NEC,5,3,4,12,18,29,20,1915
+DED,Eredivisie,2025,FC Twente '65,4,4,4,12,16,20,18,666
+DED,Eredivisie,2025,Go Ahead Eagles,4,4,4,12,16,19,18,718
+DED,Eredivisie,2025,Fortuna Sittard,5,1,6,12,16,18,20,1920
+DED,Eredivisie,2025,Sparta Rotterdam,5,1,6,12,16,14,24,6806
+DED,Eredivisie,2025,SC Heerenveen,3,5,4,12,14,19,21,673
+DED,Eredivisie,2025,FC Volendam,3,4,5,12,13,16,20,1919
+DED,Eredivisie,2025,NAC Breda,3,3,6,12,12,15,21,681
+DED,Eredivisie,2025,PEC Zwolle,3,3,6,12,12,14,27,684
+DED,Eredivisie,2025,SBV Excelsior,3,1,8,12,10,11,23,670
+DED,Eredivisie,2025,Telstar 1963,2,3,7,12,9,14,21,1912
+DED,Eredivisie,2025,Heracles Almelo,3,0,9,12,9,17,33,671
+ELC,Championship,2023,Leicester City FC,31,4,11,46,97,89,41,338
+ELC,Championship,2023,Ipswich Town FC,28,12,6,46,96,92,57,349
+ELC,Championship,2023,Leeds United FC,28,10,11,49,94,85,44,341
+ELC,Championship,2023,Southampton FC,28,10,11,49,94,91,64,340
+ELC,Championship,2023,West Bromwich Albion FC,21,13,14,48,76,71,50,74
+ELC,Championship,2023,Norwich City FC,21,11,16,48,74,79,68,68
+ELC,Championship,2023,Hull City AFC,19,13,14,46,70,68,60,322
+ELC,Championship,2023,Middlesbrough FC,20,9,17,46,69,71,62,343
+ELC,Championship,2023,Coventry City FC,17,13,16,46,64,70,59,1076
+ELC,Championship,2023,Preston North End FC,18,9,19,46,63,56,67,1081
+ELC,Championship,2023,Bristol City FC,17,11,18,46,62,53,51,387
+ELC,Championship,2023,Cardiff City FC,19,5,22,46,62,53,70,715
+ELC,Championship,2023,Millwall FC,16,11,19,46,59,45,55,384
+ELC,Championship,2023,Swansea City AFC,15,12,19,46,57,59,65,72
+ELC,Championship,2023,Watford FC,13,17,16,46,56,61,61,346
+ELC,Championship,2023,Sunderland AFC,16,8,22,46,56,52,54,71
+ELC,Championship,2023,Stoke City FC,15,11,20,46,56,49,60,70
+ELC,Championship,2023,Queens Park Rangers FC,15,11,20,46,56,47,58,69
+ELC,Championship,2023,Blackburn Rovers FC,14,11,21,46,53,60,74,59
+ELC,Championship,2023,Sheffield Wednesday FC,15,8,23,46,53,44,68,345
+ELC,Championship,2023,Plymouth Argyle FC,13,12,21,46,51,59,70,1138
+ELC,Championship,2023,Birmingham City FC,13,11,22,46,50,50,65,332
+ELC,Championship,2023,Huddersfield Town AFC,9,18,19,46,45,48,77,394
+ELC,Championship,2023,Rotherham United FC,5,12,29,46,27,37,89,385
+ELC,Championship,2024,Leeds United FC,29,13,4,46,100,95,30,341
+ELC,Championship,2024,Burnley FC,28,16,2,46,100,69,16,328
+ELC,Championship,2024,Sheffield United FC,30,8,11,49,98,70,38,356
+ELC,Championship,2024,Sunderland AFC,23,14,12,49,83,63,47,71
+ELC,Championship,2024,Coventry City FC,20,10,18,48,70,66,61,1076
+ELC,Championship,2024,Bristol City FC,17,17,14,48,68,59,61,387
+ELC,Championship,2024,Blackburn Rovers FC,19,9,18,46,66,53,48,59
+ELC,Championship,2024,Millwall FC,18,12,16,46,66,47,49,384
+ELC,Championship,2024,West Bromwich Albion FC,15,19,12,46,64,57,47,74
+ELC,Championship,2024,Middlesbrough FC,18,10,18,46,64,64,56,343
+ELC,Championship,2024,Swansea City AFC,17,10,19,46,61,51,56,72
+ELC,Championship,2024,Sheffield Wednesday FC,15,13,18,46,58,60,69,345
+ELC,Championship,2024,Norwich City FC,14,15,17,46,57,71,68,68
+ELC,Championship,2024,Watford FC,16,9,21,46,57,53,61,346
+ELC,Championship,2024,Queens Park Rangers FC,14,14,18,46,56,53,63,69
+ELC,Championship,2024,Portsmouth FC,14,12,20,46,54,58,71,325
+ELC,Championship,2024,Oxford United FC,13,14,19,46,53,49,65,1082
+ELC,Championship,2024,Stoke City FC,12,15,19,46,51,45,62,70
+ELC,Championship,2024,Preston North End FC,10,20,16,46,50,48,59,1081
+ELC,Championship,2024,Hull City AFC,12,13,21,46,49,44,54,322
+ELC,Championship,2024,Luton Town FC,13,10,23,46,49,45,69,389
+ELC,Championship,2024,Plymouth Argyle FC,11,13,22,46,46,51,88,1138
+ELC,Championship,2024,Cardiff City FC,9,17,20,46,44,48,73,715
+ELC,Championship,2024,Derby County FC,13,11,22,46,38,48,56,342
+ELC,Championship,2025,Coventry City FC,10,4,1,15,34,40,13,1076
+ELC,Championship,2025,Middlesbrough FC,8,5,2,15,29,19,13,343
+ELC,Championship,2025,Stoke City FC,8,3,4,15,27,21,10,70
+ELC,Championship,2025,Preston North End FC,7,5,3,15,26,20,14,1081
+ELC,Championship,2025,Hull City AFC,7,4,4,15,25,26,24,322
+ELC,Championship,2025,Millwall FC,7,4,4,15,25,17,20,384
+ELC,Championship,2025,Ipswich Town FC,6,5,3,14,23,26,16,349
+ELC,Championship,2025,Bristol City FC,6,5,4,15,23,22,18,387
+ELC,Championship,2025,Charlton Athletic FC,6,5,4,15,23,16,12,348
+ELC,Championship,2025,Birmingham City FC,6,3,6,15,21,20,17,332
+ELC,Championship,2025,Leicester City FC,5,6,4,15,21,18,16,338
+ELC,Championship,2025,Wrexham AFC,5,6,4,15,21,20,19,404
+ELC,Championship,2025,West Bromwich Albion FC,6,3,6,15,21,14,16,74
+ELC,Championship,2025,Watford FC,5,5,5,15,20,19,18,346
+ELC,Championship,2025,Queens Park Rangers FC,5,4,6,15,19,17,23,69
+ELC,Championship,2025,Southampton FC,4,6,5,15,18,18,21,340
+ELC,Championship,2025,Swansea City AFC,4,5,6,15,17,15,19,72
+ELC,Championship,2025,Blackburn Rovers FC,5,1,8,14,16,14,19,59
+ELC,Championship,2025,Portsmouth FC,3,5,7,15,14,12,20,325
+ELC,Championship,2025,Oxford United FC,3,4,8,15,13,16,22,1082
+ELC,Championship,2025,Derby County FC,6,5,4,15,11,20,19,342
+ELC,Championship,2025,Sheffield United FC,3,1,11,15,10,11,26,356
+ELC,Championship,2025,Norwich City FC,2,3,10,15,9,14,23,68
+ELC,Championship,2025,Sheffield Wednesday FC,1,5,9,15,8,12,29,345
+FL1,Ligue 1,2023,Paris Saint-Germain FC,22,10,2,34,76,81,33,524
+FL1,Ligue 1,2023,AS Monaco FC,20,7,7,34,67,68,42,548
+FL1,Ligue 1,2023,Stade Brestois 29,17,10,7,34,61,53,34,512
+FL1,Ligue 1,2023,Lille OSC,16,11,7,34,59,52,34,521
+FL1,Ligue 1,2023,OGC Nice,15,10,9,34,55,40,29,522
+FL1,Ligue 1,2023,Olympique Lyonnais,16,5,13,34,53,49,55,523
+FL1,Ligue 1,2023,Racing Club de Lens,14,9,11,34,51,45,37,546
+FL1,Ligue 1,2023,Olympique de Marseille,13,11,10,34,50,52,41,516
+FL1,Ligue 1,2023,Stade de Reims,13,8,13,34,47,42,47,547
+FL1,Ligue 1,2023,Stade Rennais FC 1901,12,10,12,34,46,53,46,529
+FL1,Ligue 1,2023,Toulouse FC,11,10,13,34,43,42,46,511
+FL1,Ligue 1,2023,Montpellier HSC,10,12,12,34,42,43,48,518
+FL1,Ligue 1,2023,RC Strasbourg Alsace,10,9,15,34,39,38,50,576
+FL1,Ligue 1,2023,FC Nantes,9,6,19,34,33,30,55,543
+FL1,Ligue 1,2023,Le Havre AC,7,11,16,34,32,34,45,533
+FL1,Ligue 1,2023,FC Lorient,7,8,19,34,29,43,66,525
+FL1,Ligue 1,2023,FC Metz,8,5,21,34,29,35,58,545
+FL1,Ligue 1,2023,Clermont Foot 63,5,10,19,34,25,26,60,541
+FL1,Ligue 1,2024,Paris Saint-Germain FC,26,6,2,34,84,92,35,524
+FL1,Ligue 1,2024,Olympique de Marseille,20,5,9,34,65,74,47,516
+FL1,Ligue 1,2024,AS Monaco FC,18,7,9,34,61,63,41,548
+FL1,Ligue 1,2024,OGC Nice,17,9,8,34,60,66,41,522
+FL1,Ligue 1,2024,Lille OSC,17,9,8,34,60,52,36,521
+FL1,Ligue 1,2024,Olympique Lyonnais,17,6,11,34,57,65,46,523
+FL1,Ligue 1,2024,RC Strasbourg Alsace,16,9,9,34,57,56,44,576
+FL1,Ligue 1,2024,Racing Club de Lens,15,7,12,34,52,42,39,546
+FL1,Ligue 1,2024,Stade Brestois 29,15,5,14,34,50,52,59,512
+FL1,Ligue 1,2024,Toulouse FC,11,9,14,34,42,44,43,511
+FL1,Ligue 1,2024,AJ Auxerre,11,9,14,34,42,48,51,519
+FL1,Ligue 1,2024,Stade Rennais FC 1901,13,2,19,34,41,51,50,529
+FL1,Ligue 1,2024,FC Nantes,8,12,14,34,36,39,52,543
+FL1,Ligue 1,2024,Angers SCO,10,6,18,34,36,32,53,532
+FL1,Ligue 1,2024,Le Havre AC,10,4,20,34,34,40,71,533
+FL1,Ligue 1,2024,Stade de Reims,8,9,17,34,33,33,47,547
+FL1,Ligue 1,2024,AS Saint-Étienne,7,6,20,33,27,37,77,527
+FL1,Ligue 1,2024,Montpellier HSC,4,4,25,33,16,23,77,518
+FL1,Ligue 1,2025,Paris Saint-Germain FC,8,3,1,12,27,24,11,524
+FL1,Ligue 1,2025,Olympique de Marseille,8,1,3,12,25,28,11,516
+FL1,Ligue 1,2025,Racing Club de Lens,8,1,3,12,25,21,11,546
+FL1,Ligue 1,2025,RC Strasbourg Alsace,7,1,4,12,22,24,16,576
+FL1,Ligue 1,2025,Lille OSC,6,2,4,12,20,23,15,521
+FL1,Ligue 1,2025,AS Monaco FC,6,2,4,12,20,24,21,548
+FL1,Ligue 1,2025,Olympique Lyonnais,6,2,4,12,20,18,15,523
+FL1,Ligue 1,2025,Stade Rennais FC 1901,4,6,2,12,18,19,17,529
+FL1,Ligue 1,2025,OGC Nice,5,2,5,12,17,17,18,522
+FL1,Ligue 1,2025,Toulouse FC,4,4,4,12,16,18,16,511
+FL1,Ligue 1,2025,Paris FC,4,2,6,12,14,18,21,1045
+FL1,Ligue 1,2025,Le Havre AC,3,5,4,12,14,13,17,533
+FL1,Ligue 1,2025,Angers SCO,3,4,5,12,13,10,15,532
+FL1,Ligue 1,2025,FC Metz,3,2,7,12,11,12,27,545
+FL1,Ligue 1,2025,Stade Brestois 29,2,4,6,12,10,14,21,512
+FL1,Ligue 1,2025,FC Nantes,2,4,6,12,10,11,18,543
+FL1,Ligue 1,2025,FC Lorient,2,4,6,12,10,14,26,525
+FL1,Ligue 1,2025,AJ Auxerre,2,1,9,12,7,7,19,519
+PD,Primera Division,2023,Real Madrid CF,29,8,1,38,95,87,26,86
+PD,Primera Division,2023,FC Barcelona,26,7,5,38,85,79,44,81
+PD,Primera Division,2023,Girona FC,25,6,7,38,81,85,46,298
+PD,Primera Division,2023,Club Atlético de Madrid,24,4,10,38,76,70,43,78
+PD,Primera Division,2023,Athletic Club,19,11,8,38,68,61,37,77
+PD,Primera Division,2023,Real Sociedad de Fútbol,16,12,10,38,60,51,39,92
+PD,Primera Division,2023,Real Betis Balompié,14,15,9,38,57,48,45,90
+PD,Primera Division,2023,Villarreal CF,14,11,13,38,53,65,65,94
+PD,Primera Division,2023,Valencia CF,13,10,15,38,49,40,45,95
+PD,Primera Division,2023,Deportivo Alavés,12,10,16,38,46,36,46,263
+PD,Primera Division,2023,CA Osasuna,12,9,17,38,45,45,56,79
+PD,Primera Division,2023,Getafe CF,10,13,15,38,43,42,54,82
+PD,Primera Division,2023,Sevilla FC,10,11,17,38,41,48,54,559
+PD,Primera Division,2023,RC Celta de Vigo,10,11,17,38,41,46,57,558
+PD,Primera Division,2023,RCD Mallorca,8,16,14,38,40,33,44,89
+PD,Primera Division,2023,UD Las Palmas,10,10,18,38,40,33,47,275
+PD,Primera Division,2023,Rayo Vallecano de Madrid,8,14,16,38,38,29,48,87
+PD,Primera Division,2023,Cádiz CF,6,15,17,38,33,26,55,264
+PD,Primera Division,2023,UD Almería,3,12,23,38,21,43,75,267
+PD,Primera Division,2023,Granada CF,4,9,25,38,21,38,79,83
+PD,Primera Division,2024,FC Barcelona,28,4,6,38,88,102,39,81
+PD,Primera Division,2024,Real Madrid CF,26,6,6,38,84,78,38,86
+PD,Primera Division,2024,Club Atlético de Madrid,22,10,6,38,76,68,30,78
+PD,Primera Division,2024,Athletic Club,19,13,6,38,70,54,29,77
+PD,Primera Division,2024,Villarreal CF,20,10,8,38,70,71,51,94
+PD,Primera Division,2024,Real Betis Balompié,16,12,10,38,60,57,50,90
+PD,Primera Division,2024,RC Celta de Vigo,16,7,15,38,55,59,57,558
+PD,Primera Division,2024,CA Osasuna,12,16,10,38,52,48,52,79
+PD,Primera Division,2024,Rayo Vallecano de Madrid,13,13,12,38,52,41,45,87
+PD,Primera Division,2024,RCD Mallorca,13,9,16,38,48,35,44,89
+PD,Primera Division,2024,Valencia CF,11,13,14,38,46,44,54,95
+PD,Primera Division,2024,Real Sociedad de Fútbol,13,7,18,38,46,35,46,92
+PD,Primera Division,2024,Getafe CF,11,9,18,38,42,34,39,82
+PD,Primera Division,2024,Deportivo Alavés,10,12,16,38,42,38,48,263
+PD,Primera Division,2024,RCD Espanyol de Barcelona,11,9,18,38,42,40,51,80
+PD,Primera Division,2024,Sevilla FC,10,11,17,38,41,42,55,559
+PD,Primera Division,2024,Girona FC,11,8,19,38,41,44,60,298
+PD,Primera Division,2024,CD Leganés,9,13,16,38,40,39,56,745
+PD,Primera Division,2024,UD Las Palmas,8,8,22,38,32,40,61,275
+PD,Primera Division,2024,Real Valladolid CF,4,4,30,38,16,26,90,250
+PD,Primera Division,2025,Real Madrid CF,10,1,1,12,31,26,10,86
+PD,Primera Division,2025,FC Barcelona,9,1,2,12,28,32,15,81
+PD,Primera Division,2025,Villarreal CF,8,2,2,12,26,24,10,94
+PD,Primera Division,2025,Club Atlético de Madrid,7,4,1,12,25,24,11,78
+PD,Primera Division,2025,Real Betis Balompié,5,5,2,12,20,19,13,90
+PD,Primera Division,2025,RCD Espanyol de Barcelona,5,3,4,12,18,15,15,80
+PD,Primera Division,2025,Athletic Club,5,2,5,12,17,12,13,77
+PD,Primera Division,2025,Getafe CF,5,2,5,12,17,12,14,82
+PD,Primera Division,2025,Sevilla FC,5,1,6,12,16,18,19,559
+PD,Primera Division,2025,Deportivo Alavés,4,3,5,12,15,11,11,263
+PD,Primera Division,2025,Elche CF,3,6,3,12,15,13,14,285
+PD,Primera Division,2025,Rayo Vallecano de Madrid,4,3,5,12,15,12,14,87
+PD,Primera Division,2025,RC Celta de Vigo,2,7,3,12,13,15,18,558
+PD,Primera Division,2025,Real Sociedad de Fútbol,3,4,5,12,13,14,17,92
+PD,Primera Division,2025,RCD Mallorca,3,3,6,12,12,12,18,89
+PD,Primera Division,2025,CA Osasuna,3,2,7,12,11,9,13,79
+PD,Primera Division,2025,Valencia CF,2,4,6,12,10,11,21,95
+PD,Primera Division,2025,Girona FC,2,4,6,12,10,11,24,298
+PD,Primera Division,2025,Levante UD,2,3,7,12,9,16,23,88
+PD,Primera Division,2025,Real Oviedo,2,2,8,12,8,7,20,1048
+PL,Premier League,2023,Manchester City FC,28,7,3,38,91,96,34,65
+PL,Premier League,2023,Arsenal FC,28,5,5,38,89,91,29,57
+PL,Premier League,2023,Liverpool FC,24,10,4,38,82,86,41,64
+PL,Premier League,2023,Aston Villa FC,20,8,10,38,68,76,61,58
+PL,Premier League,2023,Tottenham Hotspur FC,20,6,12,38,66,74,61,73
+PL,Premier League,2023,Chelsea FC,18,9,11,38,63,77,63,61
+PL,Premier League,2023,Newcastle United FC,18,6,14,38,60,85,62,67
+PL,Premier League,2023,Manchester United FC,18,6,14,38,60,57,58,66
+PL,Premier League,2023,West Ham United FC,14,10,14,38,52,60,74,563
+PL,Premier League,2023,Crystal Palace FC,13,10,15,38,49,57,58,354
+PL,Premier League,2023,Brighton & Hove Albion FC,12,12,14,38,48,55,62,397
+PL,Premier League,2023,Everton FC,13,9,16,38,48,40,51,62
+PL,Premier League,2023,AFC Bournemouth,13,9,16,38,48,54,67,1044
+PL,Premier League,2023,Fulham FC,13,8,17,38,47,55,61,63
+PL,Premier League,2023,Wolverhampton Wanderers FC,13,7,18,38,46,50,65,76
+PL,Premier League,2023,Brentford FC,10,9,19,38,39,56,65,402
+PL,Premier League,2023,Nottingham Forest FC,9,9,20,38,36,49,67,351
+PL,Premier League,2023,Luton Town FC,6,8,24,38,26,52,85,389
+PL,Premier League,2023,Burnley FC,5,9,24,38,24,41,78,328
+PL,Premier League,2023,Sheffield United FC,3,7,28,38,16,35,104,356
+PL,Premier League,2024,Liverpool FC,25,9,4,38,84,86,41,64
+PL,Premier League,2024,Arsenal FC,20,14,4,38,74,69,34,57
+PL,Premier League,2024,Manchester City FC,21,8,9,38,71,72,44,65
+PL,Premier League,2024,Chelsea FC,20,9,9,38,69,64,43,61
+PL,Premier League,2024,Newcastle United FC,20,6,12,38,66,68,47,67
+PL,Premier League,2024,Aston Villa FC,19,9,10,38,66,58,51,58
+PL,Premier League,2024,Nottingham Forest FC,19,8,11,38,65,58,46,351
+PL,Premier League,2024,Brighton & Hove Albion FC,16,13,9,38,61,66,59,397
+PL,Premier League,2024,AFC Bournemouth,15,11,12,38,56,58,46,1044
+PL,Premier League,2024,Brentford FC,16,8,14,38,56,66,57,402
+PL,Premier League,2024,Fulham FC,15,9,14,38,54,54,54,63
+PL,Premier League,2024,Crystal Palace FC,13,14,11,38,53,51,51,354
+PL,Premier League,2024,Everton FC,11,15,12,38,48,42,44,62
+PL,Premier League,2024,West Ham United FC,11,10,17,38,43,46,62,563
+PL,Premier League,2024,Manchester United FC,11,9,18,38,42,44,54,66
+PL,Premier League,2024,Wolverhampton Wanderers FC,12,6,20,38,42,54,69,76
+PL,Premier League,2024,Tottenham Hotspur FC,11,5,22,38,38,64,65,73
+PL,Premier League,2024,Leicester City FC,6,7,25,38,25,33,80,338
+PL,Premier League,2024,Ipswich Town FC,4,10,24,38,22,36,82,349
+PL,Premier League,2024,Southampton FC,2,6,30,38,12,26,86,340
+PL,Premier League,2025,Arsenal FC,8,2,1,11,26,20,5,57
+PL,Premier League,2025,Manchester City FC,7,1,3,11,22,23,8,65
+PL,Premier League,2025,Chelsea FC,6,2,3,11,20,21,11,61
+PL,Premier League,2025,Sunderland AFC,5,4,2,11,19,14,10,71
+PL,Premier League,2025,Tottenham Hotspur FC,5,3,3,11,18,19,10,73
+PL,Premier League,2025,Aston Villa FC,5,3,3,11,18,13,10,58
+PL,Premier League,2025,Manchester United FC,5,3,3,11,18,19,18,66
+PL,Premier League,2025,Liverpool FC,6,0,5,11,18,18,17,64
+PL,Premier League,2025,AFC Bournemouth,5,3,3,11,18,17,18,1044
+PL,Premier League,2025,Crystal Palace FC,4,5,2,11,17,14,9,354
+PL,Premier League,2025,Brighton & Hove Albion FC,4,4,3,11,16,17,15,397
+PL,Premier League,2025,Brentford FC,5,1,5,11,16,17,17,402
+PL,Premier League,2025,Everton FC,4,3,4,11,15,12,13,62
+PL,Premier League,2025,Newcastle United FC,3,3,5,11,12,11,14,67
+PL,Premier League,2025,Fulham FC,3,2,6,11,11,12,16,63
+PL,Premier League,2025,Leeds United FC,3,2,6,11,11,10,20,341
+PL,Premier League,2025,Burnley FC,3,1,7,11,10,14,22,328
+PL,Premier League,2025,West Ham United FC,3,1,7,11,10,13,23,563
+PL,Premier League,2025,Nottingham Forest FC,2,3,6,11,9,10,20,351
+PL,Premier League,2025,Wolverhampton Wanderers FC,0,2,9,11,2,7,25,76
+PPL,Primeira Liga,2023,Sporting Clube de Portugal,29,3,2,34,90,96,29,498
+PPL,Primeira Liga,2023,Sport Lisboa e Benfica,25,5,4,34,80,77,28,1903
+PPL,Primeira Liga,2023,FC Porto,22,6,6,34,72,63,27,503
+PPL,Primeira Liga,2023,Sporting Clube de Braga,21,5,8,34,68,71,50,5613
+PPL,Primeira Liga,2023,Vitória SC,19,6,9,34,63,52,38,5543
+PPL,Primeira Liga,2023,Moreirense FC,16,7,11,34,55,36,35,583
+PPL,Primeira Liga,2023,FC Arouca,13,7,14,34,46,54,50,712
+PPL,Primeira Liga,2023,FC Famalicão,10,12,12,34,42,37,41,5531
+PPL,Primeira Liga,2023,Casa Pia AC,10,8,16,34,38,38,50,6618
+PPL,Primeira Liga,2023,SC Farense,10,7,17,34,37,46,51,5602
+PPL,Primeira Liga,2023,Rio Ave FC,6,19,9,34,37,38,43,496
+PPL,Primeira Liga,2023,Gil Vicente FC,9,9,16,34,36,42,52,5533
+PPL,Primeira Liga,2023,GD Estoril Praia,9,6,19,34,33,49,58,582
+PPL,Primeira Liga,2023,CF Estrela da Amadora,7,12,15,34,33,33,53,9136
+PPL,Primeira Liga,2023,Boavista FC,7,11,16,34,32,39,62,810
+PPL,Primeira Liga,2023,Portimonense SC,8,8,18,34,32,39,72,5601
+PPL,Primeira Liga,2023,FC Vizela,5,11,18,34,26,36,66,5589
+PPL,Primeira Liga,2023,GD Chaves,5,8,21,34,23,31,72,1103
+PPL,Primeira Liga,2024,Sporting Clube de Portugal,25,7,2,34,82,88,27,498
+PPL,Primeira Liga,2024,Sport Lisboa e Benfica,25,5,4,34,80,84,28,1903
+PPL,Primeira Liga,2024,FC Porto,22,5,7,34,71,65,30,503
+PPL,Primeira Liga,2024,Sporting Clube de Braga,19,9,6,34,66,55,30,5613
+PPL,Primeira Liga,2024,CD Santa Clara,17,6,11,34,57,36,32,5530
+PPL,Primeira Liga,2024,Vitória SC,14,12,8,34,54,47,37,5543
+PPL,Primeira Liga,2024,FC Famalicão,12,11,11,34,47,44,39,5531
+PPL,Primeira Liga,2024,GD Estoril Praia,12,10,12,34,46,48,53,582
+PPL,Primeira Liga,2024,Casa Pia AC,12,9,13,34,45,39,44,6618
+PPL,Primeira Liga,2024,Moreirense FC,10,10,14,34,40,42,50,583
+PPL,Primeira Liga,2024,FC Arouca,9,11,14,34,38,35,49,712
+PPL,Primeira Liga,2024,Rio Ave FC,9,11,14,34,38,39,55,496
+PPL,Primeira Liga,2024,Gil Vicente FC,8,10,16,34,34,34,47,5533
+PPL,Primeira Liga,2024,CD Nacional,9,7,18,34,34,32,50,5529
+PPL,Primeira Liga,2024,CF Estrela da Amadora,7,8,19,34,29,24,50,9136
+PPL,Primeira Liga,2024,SC Farense,6,9,19,34,27,25,46,5602
+PPL,Primeira Liga,2024,AVS,5,12,17,34,27,25,60,10340
+PPL,Primeira Liga,2024,Boavista FC,6,6,22,34,24,24,59,810
+PPL,Primeira Liga,2025,FC Porto,10,1,0,11,31,24,3,503
+PPL,Primeira Liga,2025,Sporting Clube de Portugal,9,1,1,11,28,27,6,498
+PPL,Primeira Liga,2025,Sport Lisboa e Benfica,7,4,0,11,25,23,6,1903
+PPL,Primeira Liga,2025,Gil Vicente FC,7,2,2,11,23,16,5,5533
+PPL,Primeira Liga,2025,FC Famalicão,5,4,2,11,19,11,5,5531
+PPL,Primeira Liga,2025,Moreirense FC,6,0,5,11,18,16,15,583
+PPL,Primeira Liga,2025,Sporting Clube de Braga,4,4,3,11,16,19,11,5613
+PPL,Primeira Liga,2025,Vitória SC,4,2,5,11,14,10,17,5543
+PPL,Primeira Liga,2025,GD Estoril Praia,3,4,4,11,13,19,17,582
+PPL,Primeira Liga,2025,CD Nacional,3,3,5,11,12,11,15,5529
+PPL,Primeira Liga,2025,Rio Ave FC,2,6,3,11,12,14,19,496
+PPL,Primeira Liga,2025,CF Estrela da Amadora,2,5,4,11,11,13,14,9136
+PPL,Primeira Liga,2025,CD Santa Clara,3,2,6,11,11,9,13,5530
+PPL,Primeira Liga,2025,FC Alverca,3,2,6,11,11,12,19,7822
+PPL,Primeira Liga,2025,Casa Pia AC,2,3,6,11,9,13,24,6618
+PPL,Primeira Liga,2025,FC Arouca,2,3,6,11,9,13,30,712
+PPL,Primeira Liga,2025,CD Tondela,1,3,7,11,6,6,20,1049
+PPL,Primeira Liga,2025,AVS,0,3,8,11,3,8,25,10340
+SA,Serie A,2023,FC Internazionale Milano,29,7,2,38,94,89,22,108
+SA,Serie A,2023,AC Milan,22,9,7,38,75,76,49,98
+SA,Serie A,2023,Juventus FC,19,14,5,38,71,54,31,109
+SA,Serie A,2023,Atalanta BC,21,6,11,38,69,72,42,102
+SA,Serie A,2023,Bologna FC 1909,18,14,6,38,68,54,32,103
+SA,Serie A,2023,AS Roma,18,9,11,38,63,65,46,100
+SA,Serie A,2023,SS Lazio,18,7,13,38,61,49,39,110
+SA,Serie A,2023,ACF Fiorentina,17,9,12,38,60,61,46,99
+SA,Serie A,2023,SSC Napoli,13,14,11,38,53,55,48,113
+SA,Serie A,2023,Torino FC,13,14,11,38,53,36,36,586
+SA,Serie A,2023,Genoa CFC,12,13,13,38,49,45,45,107
+SA,Serie A,2023,AC Monza,11,12,15,38,45,39,51,5911
+SA,Serie A,2023,Hellas Verona FC,9,11,18,38,38,38,51,450
+SA,Serie A,2023,US Lecce,8,14,16,38,38,32,54,5890
+SA,Serie A,2023,Udinese Calcio,6,19,13,38,37,37,53,115
+SA,Serie A,2023,Empoli FC,9,9,20,38,36,29,54,445
+SA,Serie A,2023,Cagliari Calcio,8,12,18,38,36,42,68,104
+SA,Serie A,2023,Frosinone Calcio,8,11,19,38,35,44,69,470
+SA,Serie A,2023,US Sassuolo Calcio,7,9,22,38,30,43,75,471
+SA,Serie A,2023,US Salernitana 1919,2,11,25,38,17,32,81,455
+SA,Serie A,2024,SSC Napoli,24,10,4,38,82,59,27,113
+SA,Serie A,2024,FC Internazionale Milano,24,9,5,38,81,79,35,108
+SA,Serie A,2024,Atalanta BC,22,8,8,38,74,78,37,102
+SA,Serie A,2024,Juventus FC,18,16,4,38,70,58,35,109
+SA,Serie A,2024,AS Roma,20,9,9,38,69,56,35,100
+SA,Serie A,2024,ACF Fiorentina,19,8,11,38,65,60,41,99
+SA,Serie A,2024,SS Lazio,18,11,9,38,65,61,49,110
+SA,Serie A,2024,AC Milan,18,9,11,38,63,61,43,98
+SA,Serie A,2024,Bologna FC 1909,16,14,8,38,62,57,47,103
+SA,Serie A,2024,Como 1907,13,10,15,38,49,49,52,7397
+SA,Serie A,2024,Torino FC,10,14,14,38,44,39,45,586
+SA,Serie A,2024,Udinese Calcio,12,8,18,38,44,41,56,115
+SA,Serie A,2024,Genoa CFC,10,13,15,38,43,37,49,107
+SA,Serie A,2024,Hellas Verona FC,10,7,21,38,37,34,66,450
+SA,Serie A,2024,Parma Calcio 1913,7,15,16,38,36,44,58,112
+SA,Serie A,2024,Cagliari Calcio,9,9,20,38,36,40,56,104
+SA,Serie A,2024,US Lecce,8,10,20,38,34,27,58,5890
+SA,Serie A,2024,Empoli FC,6,13,19,38,31,33,59,445
+SA,Serie A,2024,Venezia FC,5,14,19,38,29,32,56,454
+SA,Serie A,2024,AC Monza,3,9,26,38,18,28,69,5911
+SA,Serie A,2025,FC Internazionale Milano,8,0,3,11,24,26,12,108
+SA,Serie A,2025,AS Roma,8,0,3,11,24,12,5,100
+SA,Serie A,2025,AC Milan,6,4,1,11,22,17,9,98
+SA,Serie A,2025,SSC Napoli,7,1,3,11,22,16,10,113
+SA,Serie A,2025,Bologna FC 1909,6,3,2,11,21,18,8,103
+SA,Serie A,2025,Juventus FC,5,4,2,11,19,14,10,109
+SA,Serie A,2025,Como 1907,4,6,1,11,18,12,6,7397
+SA,Serie A,2025,US Sassuolo Calcio,5,1,5,11,16,14,12,471
+SA,Serie A,2025,SS Lazio,4,3,4,11,15,13,9,110
+SA,Serie A,2025,Udinese Calcio,4,3,4,11,15,12,17,115
+SA,Serie A,2025,US Cremonese,3,5,3,11,14,12,13,457
+SA,Serie A,2025,Torino FC,3,5,3,11,14,10,16,586
+SA,Serie A,2025,Atalanta BC,2,7,2,11,13,13,11,102
+SA,Serie A,2025,Cagliari Calcio,2,4,5,11,10,9,14,104
+SA,Serie A,2025,US Lecce,2,4,5,11,10,8,14,5890
+SA,Serie A,2025,AC Pisa 1909,1,6,4,11,9,8,14,487
+SA,Serie A,2025,Parma Calcio 1913,1,5,5,11,8,7,14,112
+SA,Serie A,2025,Genoa CFC,1,4,6,11,7,8,16,107
+SA,Serie A,2025,Hellas Verona FC,0,6,5,11,6,6,16,450
+SA,Serie A,2025,ACF Fiorentina,0,5,6,11,5,9,18,99
